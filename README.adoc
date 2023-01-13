@@ -1,0 +1,3 @@
+#  The Official Kubernetes Java Client
+
+Sample demonstrating how to use the official  Kubernetes Java client and the Spring AOT integration. The hints library used to contain these hints, but don't anymore as I donated them to official Kubernetes Java client.
